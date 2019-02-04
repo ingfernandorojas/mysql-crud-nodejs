@@ -8,9 +8,10 @@
 ```npm install package.json```
 
 ## Crear la base de datos employee
- ```mysql -u root -p```
- ```CREATE DATABASE employee;```
- ```USE employee;```
+
+ ```mysql -u root -p```</br>
+```CREATE DATABASE employee;```</br>
+ ```USE employee;```</br>
  ```source employee.sql;```
  
  ## Modificar index.js
